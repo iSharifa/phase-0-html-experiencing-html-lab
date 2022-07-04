@@ -1,0 +1,14 @@
+# Query: code my_list.txt
+# ContextLines: 1
+
+1 result - 1 file
+
+README.md:
+  38  to humans and operating systems that it contains text. Open the file in VS Code
+  39: by typing `code my_list.txt`; you will do all editing for this lesson in VS
+  40  Code.
+"Monstera Deliciosa"
+"Fiddle Leaf Fig"
+"Pilea"
+"Golden Pothos"
+"Peace Lily"
